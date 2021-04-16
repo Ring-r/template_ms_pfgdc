@@ -1,0 +1,8 @@
+.dockerignore
+.git
+.gitignore
+docker_build.sh
+docker_run.sh
+Dockerfile
+environment_lock.sh
+environment.yml
